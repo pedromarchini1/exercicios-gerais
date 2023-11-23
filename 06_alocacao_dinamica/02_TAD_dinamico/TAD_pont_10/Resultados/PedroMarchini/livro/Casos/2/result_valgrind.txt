@@ -1,0 +1,2 @@
+Test Case: Resultados/PedroMarchini/livro/Casos/2
+Valgrind result: allocs: 5 frees: 0 errors: 20 contexts: 6

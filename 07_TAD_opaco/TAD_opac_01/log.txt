@@ -1,0 +1,310 @@
+Rodando o script do Aluno - Arquivos header necessários do professor existem na pasta Includes
+ - Arquivos objetos necessários do professor existem na pasta Gabarito-obj.
+#######################################
+ALUNO: PedroMarchini
+#######################################
+CRIANDO O DIRETÓRIO DE RESULTADO PARA PedroMarchini:
+ - Diretório Resultados/PedroMarchini criado com sucesso!
+ - Diretório Resultados/PedroMarchini/jogada criado com sucesso!
+ - Diretório Resultados/PedroMarchini/jogador criado com sucesso!
+ - Diretório Resultados/PedroMarchini/jogo criado com sucesso!
+ - Diretório Resultados/PedroMarchini/main criado com sucesso!
+ - Diretório Resultados/PedroMarchini/tabuleiro criado com sucesso!
+ - Diretório Resultados/PedroMarchini/completo criado com sucesso!
+ - Arquivos criados: ok!
+
+CHECKANDO OS ARQUIVOS DO ALUNO:
+ - Arquivo esperado 'Respostas/PedroMarchini/jogada.c' encontrado!
+ - Arquivo esperado 'Respostas/PedroMarchini/jogada.h' encontrado!
+ - Arquivo esperado 'Respostas/PedroMarchini/jogador.c' encontrado!
+ - Arquivo esperado 'Respostas/PedroMarchini/jogador.h' encontrado!
+ - Arquivo esperado 'Respostas/PedroMarchini/jogo.c' encontrado!
+ - Arquivo esperado 'Respostas/PedroMarchini/jogo.h' encontrado!
+ - Arquivo esperado 'Respostas/PedroMarchini/main.c' encontrado!
+ - Arquivo esperado 'Respostas/PedroMarchini/tabuleiro.c' encontrado!
+ - Arquivo esperado 'Respostas/PedroMarchini/tabuleiro.h' encontrado!
+ - Arquivos esperados enviados: Ok!
+
+COPIANDO OS ARQUIVOS PARA A PASTA DE RESULTADO DO ALUNO:
+ - Pasta jogada:
+ - Copiando os Casos de teste para a pasta Resultados/PedroMarchini/jogada
+ - Copiando os 'Respostas/PedroMarchini/*.h' do aluno para a pasta Resultados/PedroMarchini/jogada
+ - Copiando os 'Includes/*.h' do professor para a pasta Resultados/PedroMarchini/jogada
+ - Copiando os 'Respostas/PedroMarchini/*.c' do aluno para a pasta Resultados/PedroMarchini/jogada
+ - Pasta jogador:
+ - Copiando os Casos de teste para a pasta Resultados/PedroMarchini/jogador
+ - Copiando os 'Respostas/PedroMarchini/*.h' do aluno para a pasta Resultados/PedroMarchini/jogador
+ - Copiando os 'Includes/*.h' do professor para a pasta Resultados/PedroMarchini/jogador
+ - Copiando os 'Respostas/PedroMarchini/*.c' do aluno para a pasta Resultados/PedroMarchini/jogador
+ - Pasta jogo:
+ - Copiando os Casos de teste para a pasta Resultados/PedroMarchini/jogo
+ - Copiando os 'Respostas/PedroMarchini/*.h' do aluno para a pasta Resultados/PedroMarchini/jogo
+ - Copiando os 'Includes/*.h' do professor para a pasta Resultados/PedroMarchini/jogo
+ - Copiando os 'Respostas/PedroMarchini/*.c' do aluno para a pasta Resultados/PedroMarchini/jogo
+ - Pasta main:
+ - Copiando os Casos de teste para a pasta Resultados/PedroMarchini/main
+ - Copiando os 'Respostas/PedroMarchini/*.h' do aluno para a pasta Resultados/PedroMarchini/main
+ - Copiando os 'Includes/*.h' do professor para a pasta Resultados/PedroMarchini/main
+ - Copiando os 'Respostas/PedroMarchini/*.c' do aluno para a pasta Resultados/PedroMarchini/main
+ - Pasta tabuleiro:
+ - Copiando os Casos de teste para a pasta Resultados/PedroMarchini/tabuleiro
+ - Copiando os 'Respostas/PedroMarchini/*.h' do aluno para a pasta Resultados/PedroMarchini/tabuleiro
+ - Copiando os 'Includes/*.h' do professor para a pasta Resultados/PedroMarchini/tabuleiro
+ - Copiando os 'Respostas/PedroMarchini/*.c' do aluno para a pasta Resultados/PedroMarchini/tabuleiro
+ - Pasta completo:
+ - Copiando os Casos de teste para a pasta Resultados/PedroMarchini/completo
+ - Copiando os 'Respostas/PedroMarchini/*.h' do aluno para a pasta Resultados/PedroMarchini/completo
+ - Copiando os 'Respostas/PedroMarchini/*.c' do aluno para a pasta Resultados/PedroMarchini/completo
+ - Arquivos copiados: ok!
+
+COMPILANDO OS ARQUIVOS NA PASTA DE RESULTADO DO ALUNO:
+ - Pasta jogada:
+ - Compilando o arquivo jogada.c do aluno, gerando o jogada.o
+ - Compilando o arquivo jogador.c do aluno, gerando o jogador.o
+ - Compilando o arquivo jogo.c do aluno, gerando o jogo.o
+ - Compilando o arquivo main.c do aluno, gerando o main.o
+ - Compilando o arquivo tabuleiro.c do aluno, gerando o tabuleiro.o
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogada/result_compilation.txt.
+ - Pasta jogador:
+ - Compilando o arquivo jogada.c do aluno, gerando o jogada.o
+ - Compilando o arquivo jogador.c do aluno, gerando o jogador.o
+ - Compilando o arquivo jogo.c do aluno, gerando o jogo.o
+ - Compilando o arquivo main.c do aluno, gerando o main.o
+ - Compilando o arquivo tabuleiro.c do aluno, gerando o tabuleiro.o
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogador/result_compilation.txt.
+ - Pasta jogo:
+ - Compilando o arquivo jogada.c do aluno, gerando o jogada.o
+ - Compilando o arquivo jogador.c do aluno, gerando o jogador.o
+ - Compilando o arquivo jogo.c do aluno, gerando o jogo.o
+ - Compilando o arquivo main.c do aluno, gerando o main.o
+ - Compilando o arquivo tabuleiro.c do aluno, gerando o tabuleiro.o
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogo/result_compilation.txt.
+ - Pasta main:
+ - Compilando o arquivo jogada.c do aluno, gerando o jogada.o
+ - Compilando o arquivo jogador.c do aluno, gerando o jogador.o
+ - Compilando o arquivo jogo.c do aluno, gerando o jogo.o
+ - Compilando o arquivo main.c do aluno, gerando o main.o
+ - Compilando o arquivo tabuleiro.c do aluno, gerando o tabuleiro.o
+ - Arquivo de output gerado: Resultados/PedroMarchini/main/result_compilation.txt.
+ - Pasta tabuleiro:
+ - Compilando o arquivo jogada.c do aluno, gerando o jogada.o
+ - Compilando o arquivo jogador.c do aluno, gerando o jogador.o
+ - Compilando o arquivo jogo.c do aluno, gerando o jogo.o
+ - Compilando o arquivo main.c do aluno, gerando o main.o
+ - Compilando o arquivo tabuleiro.c do aluno, gerando o tabuleiro.o
+ - Arquivo de output gerado: Resultados/PedroMarchini/tabuleiro/result_compilation.txt.
+ - Pasta completo:
+ - Compilando o arquivo jogada.c do aluno, gerando o jogada.o
+ - Compilando o arquivo jogador.c do aluno, gerando o jogador.o
+ - Compilando o arquivo jogo.c do aluno, gerando o jogo.o
+ - Compilando o arquivo main.c do aluno, gerando o main.o
+ - Compilando o arquivo tabuleiro.c do aluno, gerando o tabuleiro.o
+ - Arquivo de output gerado: Resultados/PedroMarchini/completo/result_compilation.txt.
+ - Copiando os arquivos objetos do professor para cada subpasta do Resultado do PedroMarchini:
+ - Copiando o Gabarito-obj/jogada.o para a pasta Resultados/PedroMarchini/jogador
+ - Copiando o Gabarito-obj/jogada.o para a pasta Resultados/PedroMarchini/jogo
+ - Copiando o Gabarito-obj/jogada.o para a pasta Resultados/PedroMarchini/main
+ - Copiando o Gabarito-obj/jogada.o para a pasta Resultados/PedroMarchini/tabuleiro
+ - Copiando o Gabarito-obj/jogador.o para a pasta Resultados/PedroMarchini/jogada
+ - Copiando o Gabarito-obj/jogador.o para a pasta Resultados/PedroMarchini/jogo
+ - Copiando o Gabarito-obj/jogador.o para a pasta Resultados/PedroMarchini/main
+ - Copiando o Gabarito-obj/jogador.o para a pasta Resultados/PedroMarchini/tabuleiro
+ - Copiando o Gabarito-obj/jogo.o para a pasta Resultados/PedroMarchini/jogada
+ - Copiando o Gabarito-obj/jogo.o para a pasta Resultados/PedroMarchini/jogador
+ - Copiando o Gabarito-obj/jogo.o para a pasta Resultados/PedroMarchini/main
+ - Copiando o Gabarito-obj/jogo.o para a pasta Resultados/PedroMarchini/tabuleiro
+ - Copiando o Gabarito-obj/main.o para a pasta Resultados/PedroMarchini/jogada
+ - Copiando o Gabarito-obj/main.o para a pasta Resultados/PedroMarchini/jogador
+ - Copiando o Gabarito-obj/main.o para a pasta Resultados/PedroMarchini/jogo
+ - Copiando o Gabarito-obj/main.o para a pasta Resultados/PedroMarchini/tabuleiro
+ - Copiando o Gabarito-obj/tabuleiro.o para a pasta Resultados/PedroMarchini/jogada
+ - Copiando o Gabarito-obj/tabuleiro.o para a pasta Resultados/PedroMarchini/jogador
+ - Copiando o Gabarito-obj/tabuleiro.o para a pasta Resultados/PedroMarchini/jogo
+ - Copiando o Gabarito-obj/tabuleiro.o para a pasta Resultados/PedroMarchini/main
+ - Arquivos Compilados: ok!
+
+LINKANDO OS ARQUIVOS COMPILADOS:
+ - Pasta jogada:
+ - Gerando o binário prog linkando com o(s) arquivo(s) jogada/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogada/result_linking.txt
+ - Pasta jogador:
+ - Gerando o binário prog linkando com o(s) arquivo(s) jogador/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogador/result_linking.txt
+ - Pasta jogo:
+ - Gerando o binário prog linkando com o(s) arquivo(s) jogo/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogo/result_linking.txt
+ - Pasta main:
+ - Gerando o binário prog linkando com o(s) arquivo(s) main/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/PedroMarchini/main/result_linking.txt
+ - Pasta tabuleiro:
+ - Gerando o binário prog linkando com o(s) arquivo(s) tabuleiro/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/PedroMarchini/tabuleiro/result_linking.txt
+ - Pasta completo:
+ - Gerando o binário prog linkando com o(s) arquivo(s) completo/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/PedroMarchini/completo/result_linking.txt
+ - Arquivos Linkados: Erro! 3 arquivos com erros de linkagem.
+
+EXECUTANDO O VALGRIND EM CADA CASO:
+ - Pasta jogada / Caso 1:
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogada/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 79, frees: 79, errors: 0.
+ - Resultado para o saida.txt: Ok!
+ - Pasta jogada / Caso 2:
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogada/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 68, frees: 68, errors: 0.
+ - Resultado para o saida.txt: Ok!
+ - Pasta jogada / Caso 3:
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogada/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 47, frees: 47, errors: 0.
+ - Resultado para o saida.txt: Ok!
+ - Pasta jogada / Caso 4:
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogada/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 49, frees: 49, errors: 0.
+ - Resultado para o saida.txt: Ok!
+ - Pasta jogada / Caso 5:
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogada/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 79, frees: 79, errors: 0.
+ - Resultado para o saida.txt: Ok!
+ - Pasta jogada / Caso 6:
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogada/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 132, frees: 132, errors: 0.
+ - Resultado para o saida.txt: Ok!
+ - Pasta jogador / Caso 1:
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogador/Casos/1/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 8, frees: 0, errors: 2.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta jogador / Caso 2:
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogador/Casos/2/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 8, frees: 0, errors: 2.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta jogador / Caso 3:
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogador/Casos/3/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 8, frees: 0, errors: 2.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta jogador / Caso 4:
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogador/Casos/4/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 8, frees: 0, errors: 2.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta jogador / Caso 5:
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogador/Casos/5/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 8, frees: 0, errors: 2.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta jogador / Caso 6:
+ - Arquivo de output gerado: Resultados/PedroMarchini/jogador/Casos/6/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 8, frees: 0, errors: 2.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta jogo / Caso 1:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta jogo / Caso 2:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta jogo / Caso 3:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta jogo / Caso 4:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta jogo / Caso 5:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta jogo / Caso 6:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta main / Caso 1:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta main / Caso 2:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta main / Caso 3:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta main / Caso 4:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta main / Caso 5:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta main / Caso 6:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta tabuleiro / Caso 1:
+ - Arquivo de output gerado: Resultados/PedroMarchini/tabuleiro/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 59, frees: 59, errors: 0.
+ - Resultado para o saida.txt: Ok!
+ - Pasta tabuleiro / Caso 2:
+ - Arquivo de output gerado: Resultados/PedroMarchini/tabuleiro/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 52, frees: 52, errors: 0.
+ - Resultado para o saida.txt: Ok!
+ - Pasta tabuleiro / Caso 3:
+ - Arquivo de output gerado: Resultados/PedroMarchini/tabuleiro/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 35, frees: 35, errors: 0.
+ - Resultado para o saida.txt: Ok!
+ - Pasta tabuleiro / Caso 4:
+ - Arquivo de output gerado: Resultados/PedroMarchini/tabuleiro/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 37, frees: 37, errors: 0.
+ - Resultado para o saida.txt: Ok!
+ - Pasta tabuleiro / Caso 5:
+ - Arquivo de output gerado: Resultados/PedroMarchini/tabuleiro/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 59, frees: 59, errors: 0.
+ - Resultado para o saida.txt: Ok!
+ - Pasta tabuleiro / Caso 6:
+ - Arquivo de output gerado: Resultados/PedroMarchini/tabuleiro/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 92, frees: 92, errors: 0.
+ - Resultado para o saida.txt: Ok!
+ - Pasta completo / Caso 1:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta completo / Caso 2:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta completo / Caso 3:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta completo / Caso 4:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta completo / Caso 5:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+ - Pasta completo / Caso 6:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente.
+ - Resultado para o saida.txt: Incorreto!
+
+#######################################
+RESULTADOS FINAIS
+#######################################
+
+----------------------------------------------------------------------------
+Nome 0: PedroMarchini
+ - Arquivos Corretos: 9 de 9 / Nota 10.00
+ - Compilações Corretas: 30 de 30 / Nota 10.00
+ - Linkagens Corretas: 3 de 6 / Nota 5.00
+ - Resultados Corretos jogada: 6 de 6 / Nota 10.00
+ - Valgrinds Corretos jogada: 6 de 6 / Nota 10.00
+ - Resultados Corretos jogador: 0 de 6 / Nota 0.00
+ - Valgrinds Corretos jogador: 0 de 6 / Nota 0.00
+ - Resultados Corretos jogo: 0 de 6 / Nota 0.00
+ - Valgrinds Corretos jogo: 0 de 6 / Nota 0.00
+ - Resultados Corretos main: 0 de 6 / Nota 0.00
+ - Valgrinds Corretos main: 0 de 6 / Nota 0.00
+ - Resultados Corretos tabuleiro: 6 de 6 / Nota 10.00
+ - Valgrinds Corretos tabuleiro: 6 de 6 / Nota 10.00
+ - Resultados Corretos completo: 0 de 6 / Nota 0.00
+ - Valgrinds Corretos completo: 0 de 6 / Nota 0.00
+ - Soma das notas do PedroMarchini: 65.000
+ - Campos Considerados: 15
+ - Média do PedroMarchini: 4.33
+
+----------------------------------------------------------------------------
+
+Arquivo CSV Resultado.csv com os resultados finais foi gerado na pasta raíz!
+
+

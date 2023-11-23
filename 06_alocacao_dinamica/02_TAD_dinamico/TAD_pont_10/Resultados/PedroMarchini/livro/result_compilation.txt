@@ -1,0 +1,17 @@
+Resultados/PedroMarchini/livro/livro.c: In function ‘LerLivro’:
+Resultados/PedroMarchini/livro/livro.c:14:15: warning: format ‘%[^
+   ’ expects argument of type ‘char *’, but argument 2 has type ‘char **’ [-Wformat=]
+   14 |     scanf("%[^\n]\n", &livro->titulo);
+      |            ~~~^~      ~~~~~~~~~~~~~~
+      |               |       |
+      |               char *  char **
+Resultados/PedroMarchini/livro/livro.c:15:15: warning: format ‘%[^
+   ’ expects argument of type ‘char *’, but argument 2 has type ‘char **’ [-Wformat=]
+   15 |     scanf("%[^\n]\n", &livro->autor);
+      |            ~~~^~      ~~~~~~~~~~~~~
+      |               |       |
+      |               char *  char **
+Resultados/PedroMarchini/livro/main.c: In function ‘main’:
+Resultados/PedroMarchini/livro/main.c:8:10: warning: unused variable ‘titulo’ [-Wunused-variable]
+    8 |     char titulo[1000];
+      |          ^~~~~~

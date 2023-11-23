@@ -1,0 +1,2 @@
+Test Case: Resultados/PedroMarchini/tabuleiro/Casos/6
+Valgrind result: allocs: 92 frees: 92 errors: 0 contexts: 0

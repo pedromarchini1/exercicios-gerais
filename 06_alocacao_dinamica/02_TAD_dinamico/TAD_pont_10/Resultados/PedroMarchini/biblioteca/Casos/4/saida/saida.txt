@@ -1,0 +1,34 @@
+Lista de operacoes:
+1 - Cadastrar livros.
+2 - Remover livros.
+3 - Listar todos os livros cadastrados.
+
+Livro adicionado com sucesso!
+A biblioteca está cheia. Não é possível adicionar mais livros.
+A biblioteca está cheia. Não é possível adicionar mais livros.
+A biblioteca está cheia. Não é possível adicionar mais livros.
+A biblioteca está cheia. Não é possível adicionar mais livros.
+A biblioteca está cheia. Não é possível adicionar mais livros.
+A biblioteca está cheia. Não é possível adicionar mais livros.
+A biblioteca está cheia. Não é possível adicionar mais livros.
+A biblioteca está cheia. Não é possível adicionar mais livros.
+A biblioteca está cheia. Não é possível adicionar mais livros.
+A biblioteca está cheia. Não é possível adicionar mais livros.
+Titulo: 
+Autor: Bela
+Ano de Publicacao: -1
+
+Titulo: (null)
+Autor: (null)
+Ano de Publicacao: -1
+
+Titulo: (null)
+Autor: (null)
+Ano de Publicacao: -1
+
+Titulo: (null)
+Autor: (null)
+Ano de Publicacao: -1
+
+Titulo: (null)
+Autor:

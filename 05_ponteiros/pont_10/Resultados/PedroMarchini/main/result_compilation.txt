@@ -1,0 +1,10 @@
+Resultados/PedroMarchini/main/main.c: In function ‘main’:
+Resultados/PedroMarchini/main/main.c:22:34: warning: passing argument 1 of ‘AssociaFamiliasGruposPessoas’ from incompatible pointer type [-Wincompatible-pointer-types]
+   22 |     AssociaFamiliasGruposPessoas(&pessoa, num);
+      |                                  ^~~~~~~
+      |                                  |
+      |                                  tPessoa (*)[num] {aka struct Pessoa (*)[num]}
+In file included from Resultados/PedroMarchini/main/main.c:1:
+Resultados/PedroMarchini/main/pessoa.h:65:44: note: expected ‘tPessoa *’ {aka ‘struct Pessoa *’} but argument is of type ‘tPessoa (*)[num]’ {aka ‘struct Pessoa (*)[num]’}
+   65 | void AssociaFamiliasGruposPessoas(tPessoa *pessoas, int numPessoas);
+      |                                   ~~~~~~~~~^~~~~~~
